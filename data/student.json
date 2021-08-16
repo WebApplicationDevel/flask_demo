@@ -1,0 +1,4 @@
+[
+    {"id":1,"name":"Rose","age":20,"genda":"female","Chinese":90,"Math":80}
+   ,{"id":2,"name":"John","age":19,"genda":"male","Chinese":64,"Math":75}
+]
